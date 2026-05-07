@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-30 23:52:58.354661700 UTC
+// 2026-05-07 00:31:00.916915200 UTC
 
 pub const cs2_dumper = struct {
     pub const interfaces = struct {
@@ -183,27 +183,27 @@ pub const cs2_dumper = struct {
         };
         // Module: steamclient64.dll
         pub const steamclient64_dll = struct {
-            pub const IVALIDATE001: usize = 0x16BD098;
-            pub const SteamClient006: usize = 0x16BA500;
-            pub const SteamClient007: usize = 0x16BA508;
-            pub const SteamClient008: usize = 0x16BA510;
-            pub const SteamClient009: usize = 0x16BA518;
-            pub const SteamClient010: usize = 0x16BA520;
-            pub const SteamClient011: usize = 0x16BA528;
-            pub const SteamClient012: usize = 0x16BA530;
-            pub const SteamClient013: usize = 0x16BA538;
-            pub const SteamClient014: usize = 0x16BA540;
-            pub const SteamClient015: usize = 0x16BA548;
-            pub const SteamClient016: usize = 0x16BA550;
-            pub const SteamClient017: usize = 0x16BA558;
-            pub const SteamClient018: usize = 0x16BA560;
-            pub const SteamClient019: usize = 0x16BA568;
-            pub const SteamClient020: usize = 0x16BA570;
-            pub const SteamClient021: usize = 0x16BA578;
-            pub const SteamClient022: usize = 0x16BA580;
-            pub const SteamClient023: usize = 0x16BA588;
+            pub const IVALIDATE001: usize = 0x16BE0B8;
+            pub const SteamClient006: usize = 0x16BB520;
+            pub const SteamClient007: usize = 0x16BB528;
+            pub const SteamClient008: usize = 0x16BB530;
+            pub const SteamClient009: usize = 0x16BB538;
+            pub const SteamClient010: usize = 0x16BB540;
+            pub const SteamClient011: usize = 0x16BB548;
+            pub const SteamClient012: usize = 0x16BB550;
+            pub const SteamClient013: usize = 0x16BB558;
+            pub const SteamClient014: usize = 0x16BB560;
+            pub const SteamClient015: usize = 0x16BB568;
+            pub const SteamClient016: usize = 0x16BB570;
+            pub const SteamClient017: usize = 0x16BB578;
+            pub const SteamClient018: usize = 0x16BB580;
+            pub const SteamClient019: usize = 0x16BB588;
+            pub const SteamClient020: usize = 0x16BB590;
+            pub const SteamClient021: usize = 0x16BB598;
+            pub const SteamClient022: usize = 0x16BB5A0;
+            pub const SteamClient023: usize = 0x16BB5A8;
             pub const p2pvoice002: usize = 0x14E627F;
-            pub const p2pvoicesingleton002: usize = 0x16950F0;
+            pub const p2pvoicesingleton002: usize = 0x16960F0;
         };
         // Module: tier0.dll
         pub const tier0_dll = struct {
