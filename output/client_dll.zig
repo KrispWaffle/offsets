@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-12 04:08:23.093395600 UTC
+// 2026-05-14 22:46:51.959431800 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -718,7 +718,7 @@ pub const cs2_dumper = struct {
             // Parent: CPlayer_ObserverServices
             // Field count: 1
             pub const CCSObserver_ObserverServices = struct {
-                pub const m_obsInterpState: usize = 0x64; // ObserverInterpState_t
+                pub const m_obsInterpState: usize = 0x68; // ObserverInterpState_t
             };
             // Parent: CEntityComponent
             // Field count: 1
