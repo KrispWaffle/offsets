@@ -7410,17 +7410,12 @@
         },
         "type": "uint32"
       },
-      "_V_WT_": {
+      "_M__W_": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "___WT_": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_c_WT_": {
+      "____W_": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
