@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-08-04 05:59:04.539757700 UTC
+// 2026-08-11 02:44:03.749645200 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -7,7 +7,7 @@ pub mod cs2_dumper {
     pub mod schemas {
         // Module: client.dll
         // Class count: 563
-        // Enum count: 15
+        // Enum count: 18
         pub mod client_dll {
             // Alignment: 4
             // Member count: 5

@@ -7411,7 +7411,22 @@
         },
         "type": "uint32"
       },
-      "_M____": {
+      "_5l_B_": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "_Nl_B_": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "_Zl_B_": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "__l_B_": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
