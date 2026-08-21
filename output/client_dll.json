@@ -7411,22 +7411,7 @@
         },
         "type": "uint32"
       },
-      "_5_u__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_N_u__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_Z_u__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "___u__": {
+      "_5____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
