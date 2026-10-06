@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "consumer_abi": "build-data-v1",
+  "consumer_abi": "midnight-build-data-v1",
   "client": {
     "pe_timestamp": "0x6ac410ba",
     "size_of_image": "0x299b000"
