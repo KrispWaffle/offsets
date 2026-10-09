@@ -2,8 +2,8 @@
   "schema_version": 1,
   "consumer_abi": "midnight-build-data-v1",
   "client": {
-    "pe_timestamp": "0x6ac410ba",
-    "size_of_image": "0x299b000"
+    "pe_timestamp": "0x6ac7fffa",
+    "size_of_image": "0x2994000"
   },
   "signatures": {
     "CG_FSN_SIG": "48 89 5C 24 ?? 48 89 6C 24 ?? 57 48 83 EC ?? 48 8B F9 33 ED",
@@ -16,7 +16,7 @@
     "SKIN_SIG_COLOR_APPEND": "E8 ?? ?? ?? ?? 0F 28 B4 24 ?? ?? ?? ?? 4C 39 AD",
     "SKIN_SIG_COLOR_CTOR": "48 8D 15 ?? ?? ?? ?? 48 8D 4D ?? E8 ?? ?? ?? ?? 48 8B D0 48 8D 4D ?? E8",
     "SKIN_SIG_COLOR_VTABLE": "48 8D 05 ?? ?? ?? ?? 48 89 81 10 06 00 00",
-    "SKIN_SIG_HUD_ADDONS": "33 D2 49 8B CE E8 ?? ?? ?? ?? 49 8B CE E8 ?? ?? ?? ?? 49 8B CE E8 ?? ?? ?? ??",
+    "SKIN_SIG_HUD_ADDONS": "33 D2 49 8B CE E8 ?? ?? ?? ?? 49 8B CE E8 ?? ?? ?? ?? 49 8B CE E8 ?? ?? ?? ?? 49 8B CE E8 ?? ?? ?? ?? FF D3",
     "SKIN_SIG_SET_MODEL": "40 53 48 83 EC ?? 48 8B D9 4C 8B C2 48 8B 0D ?? ?? ?? ?? 48 8D 54 24",
     "SKIN_SIG_UPDATE_SUBCLASS": "4C 8B DC 53 48 81 EC ?? ?? ?? ?? 48 8B 41 10 48 8B D9 8B 50 30 C1 EA 04",
     "SKIN_SIG_SET_MESH_MASK": "48 89 5C 24 ?? 48 89 74 24 ?? 57 48 83 EC ?? 48 8D 99 ?? ?? ?? ?? 48 8B 71",
@@ -29,9 +29,9 @@
   },
   "callgate": {
     "interface_name": "Source2Client002",
-    "interface_rva": "0x255c3a0",
-    "table_rva": "0x1c622e0",
-    "fsn_rva": "0xb6d440",
+    "interface_rva": "0x25560e0",
+    "table_rva": "0x1c5d0e0",
+    "fsn_rva": "0xb6c780",
     "rtti_name": ".?AVCSource2Client@@",
     "hierarchy_attributes": 1,
     "hierarchy_count": 11,
@@ -67,7 +67,7 @@
     "SKIN_QUALITY_STRANGE": 9,
     "SKIN_CUSTOM_NAME_STORAGE": 161,
     "SKIN_CHARM_HUD_STATE": 4952,
-    "SKIN_CHARM_ADD_RVA": 8391392,
+    "SKIN_CHARM_ADD_RVA": 8386992,
     "SKIN_ADDON_KEY_CHARM": 178595626,
     "SKIN_ADDON_KEY_NAMETAG": 2800478649,
     "SKIN_ADDON_KEY_STATTRAK": 3369543006,
@@ -75,7 +75,7 @@
     "SKIN_IDENTITY_FLAGS": 48,
     "SKIN_VARIANT_ECON_SLOT": 129,
     "SKIN_VARIANT_SCHEMA": 8,
-    "SKIN_VARIANT_MAP": 752,
+    "SKIN_VARIANT_MAP": 672,
     "SKIN_VARIANT_NODE": 32,
     "SKIN_VARIANT_NODE_KIT": 24,
     "SKIN_VARIANT_KIT_NAME": 8
@@ -444,9 +444,9 @@
   },
   "capabilities": {
     "glove_tint": {
-      "supported": true,
+      "supported": false,
       "abi": "midnight-glove-tint-v1",
-      "reason": "current-client glove tint native contract reviewed offline",
+      "reason": "blocked: requires material_retire, unsupported for client 0x6ac7fffa; spans below describe client 0x6ac410ba and are not enabled",
       "client": {
         "pe_timestamp": "0x6ac410ba",
         "size_of_image": "0x299b000"
@@ -546,9 +546,9 @@
       }
     },
     "material_retire": {
-      "supported": true,
+      "supported": false,
       "abi": "midnight-material-retire-v1",
-      "reason": "current-build disk ABI reviewed; exact instruction, target-role, RTTI and lifetime contract preserved",
+      "reason": "blocked: client 0x6ac7fffa inlines the world-glove spawner into the pawn low-glove lifecycle, so spans 6 and 7 are not separate functions; spans below describe client 0x6ac410ba",
       "client": {
         "pe_timestamp": "0x6ac410ba",
         "size_of_image": "0x299b000"
@@ -735,9 +735,9 @@
       "checks": {}
     },
     "private_material": {
-      "supported": true,
+      "supported": false,
       "abi": "midnight-private-material-v1",
-      "reason": "current-build private material ABI statically reviewed; retain runtime pin and ownership guards",
+      "reason": "blocked: requires glove_tint, unsupported for client 0x6ac7fffa; spans below describe client 0x6ac410ba and are not enabled",
       "client": {
         "pe_timestamp": "0x6ac410ba",
         "size_of_image": "0x299b000"
