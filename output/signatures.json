@@ -2,7 +2,7 @@
   "schema_version": 2,
   "consumer_abi": "midnight-build-data-v2",
   "client": {
-    "pe_timestamp": "0x6ad01314",
+    "pe_timestamp": "0x6ad7b41c",
     "size_of_image": "0x299d000"
   },
   "signatures": {
@@ -448,7 +448,7 @@
       "abi": "midnight-glove-tint-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6ad01314",
+        "pe_timestamp": "0x6ad7b41c",
         "size_of_image": "0x299d000"
       },
       "spans": [
@@ -500,7 +500,7 @@
         {
           "rva": "0x10d38d0",
           "length": 1184,
-          "sha256": "b249b731b6fe6b52f320e35a727f421899794cee68e30535ee3b79f37c58dcd2"
+          "sha256": "2a742bf229ffb263165963b809235f31e976d91b306a8865aaffeec6f7dbdef8"
         },
         {
           "rva": "0x780ed0",
@@ -515,7 +515,7 @@
         {
           "rva": "0x14ce4a0",
           "length": 1069,
-          "sha256": "adae27077af1a840f33aa395b8ebd0c60c78030d011942654b9ab80e0aef6e02"
+          "sha256": "dd8d710290290eca080ab6abc3d40a04e19367ae1110958a3b4b941e43cf9f1f"
         },
         {
           "rva": "0x14c7200",
@@ -525,13 +525,13 @@
         {
           "rva": "0x14d62a0",
           "length": 515,
-          "sha256": "7a79440b174edba2830d08a9af93ba0b663727687ff9e97c6a22f030b0a09337"
+          "sha256": "3958e2736f55a9918b78cb28348310b914fe5b67b6e9dfc592e6ac21ffd92102"
         }
       ],
       "rvas": {
         "required_zero_global": "0x27016a8",
         "world_gloves_component_table": "0x1c89618",
-        "addon_gloves_component_table": "0x1d09d60"
+        "addon_gloves_component_table": "0x1d09d80"
       },
       "layout": {
         "SKIN_GLOVE_TINT_LOW_HANDLE": 5624,
@@ -554,7 +554,7 @@
       "abi": "midnight-material-retire-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6ad01314",
+        "pe_timestamp": "0x6ad7b41c",
         "size_of_image": "0x299d000"
       },
       "spans": [
@@ -596,12 +596,12 @@
         {
           "rva": "0x10d1b70",
           "length": 1674,
-          "sha256": "3a706f323d0ac92aebb704d31ec0bfc17f679ef2317f52a579b1b0b0d9646a46"
+          "sha256": "5e744367cb1b5830c23c889261e3636d52f398db279a1e454b60d2685fe4d3c5"
         },
         {
           "rva": "0x10d38d0",
           "length": 1184,
-          "sha256": "b249b731b6fe6b52f320e35a727f421899794cee68e30535ee3b79f37c58dcd2"
+          "sha256": "2a742bf229ffb263165963b809235f31e976d91b306a8865aaffeec6f7dbdef8"
         },
         {
           "rva": "0x14cdfb0",
@@ -611,7 +611,7 @@
         {
           "rva": "0x14da340",
           "length": 2480,
-          "sha256": "8a626efe5066839c00b0352a329860427da90b540c0e0e7133f32a4384dfe7d7"
+          "sha256": "2b1abcb5a169a1ba56b54740f9ac7cfd1cbeb83a5ebe24b6d6964e2b2a277876"
         },
         {
           "rva": "0x14dcae0",
@@ -621,7 +621,7 @@
         {
           "rva": "0x14e7840",
           "length": 455,
-          "sha256": "f0a2705da87c480fcb83dc633b185bd2df426f8fe1950fdf073292e99f245edc"
+          "sha256": "7875af3f2234b931e68c8c172f3e79bf78db19f605019eef039ef436471b1977"
         },
         {
           "rva": "0x15af680",
@@ -636,7 +636,7 @@
         {
           "rva": "0x15b1af0",
           "length": 635,
-          "sha256": "7fa8a38b03f7d46dfcf29f04aedc9f7d0664731a15c303e81b89d6a0e2f38b1f"
+          "sha256": "43243f37042df40d801a32680f58d0eefe4c89b526a89b90ecaa292e9416eb8e"
         },
         {
           "rva": "0x15b35a0",
@@ -716,7 +716,7 @@
         {
           "rva": "0x15c72f0",
           "length": 2957,
-          "sha256": "10f4b05ace6d8d518bf48321869b56817ba730d4c0168741ed310a6f32b8e89f"
+          "sha256": "efdb7edd2c61818c388744575d66e1be9034a243f8aa24b73dd7d2c4bf41e1e0"
         },
         {
           "rva": "0x15dbd80",
@@ -726,7 +726,7 @@
       ],
       "rvas": {
         "unserialize_low_slot": "0x1c88e60",
-        "unserialize_high_slot": "0x1d095a8",
+        "unserialize_high_slot": "0x1d095c8",
         "unserialize_noop": "0x226450",
         "material_cache_manager": "0x2701780"
       },
@@ -738,7 +738,7 @@
       "abi": "midnight-private-material-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6ad01314",
+        "pe_timestamp": "0x6ad7b41c",
         "size_of_image": "0x299d000"
       },
       "spans": [
@@ -760,7 +760,7 @@
         {
           "rva": "0x14c8030",
           "length": 530,
-          "sha256": "65b0cf093fb42ada60946d0b782cc96da44cb72a20b7bb23754b268d2bd7cdf9"
+          "sha256": "c7f4f8fafbd11a339ff5f59fc04c0784626b621d9c545e7b2a59631c77a0e8d6"
         },
         {
           "rva": "0x14d7e50",
@@ -785,7 +785,7 @@
         {
           "rva": "0x14da340",
           "length": 2480,
-          "sha256": "8a626efe5066839c00b0352a329860427da90b540c0e0e7133f32a4384dfe7d7"
+          "sha256": "2b1abcb5a169a1ba56b54740f9ac7cfd1cbeb83a5ebe24b6d6964e2b2a277876"
         },
         {
           "rva": "0x14d3920",
@@ -800,7 +800,7 @@
         {
           "rva": "0x14e6b50",
           "length": 1556,
-          "sha256": "929a8e96dc169c56ad35ad00b4e6bac7be1ed2066fcdb495f499ad926230e013"
+          "sha256": "8de1608d1f69af76f64755e06ba3563ec77de1cba87c5cc7d9573708539d5f73"
         },
         {
           "rva": "0x197cba0",
@@ -832,7 +832,7 @@
       "abi": "midnight-pulse-client-v1",
       "reason": "reviewed fork-only pulse client contract",
       "client": {
-        "pe_timestamp": "0x6ad01314",
+        "pe_timestamp": "0x6ad7b41c",
         "size_of_image": "0x299d000"
       },
       "spans": [
@@ -854,7 +854,7 @@
         {
           "rva": "0x14e0900",
           "length": 2736,
-          "sha256": "622588346a3e91d970d718d0d4c63477350bd2a1bad565deb485f4c96aca72d6"
+          "sha256": "94fe8aac1a169a9f26630fe8ce4e742089c3d1055135ddd78b9a178743e6353d"
         },
         {
           "rva": "0x14dd910",
@@ -874,7 +874,7 @@
         {
           "rva": "0x14daf90",
           "length": 5896,
-          "sha256": "57c7e5dafe6e0ce2cb1974778d0b13b477f7ef44ff4031a529156558acbdf8ac"
+          "sha256": "d2cda7282f423570b318d292ddeb0b9b20a58bebc0eb0fc68831e3eeba59a995"
         },
         {
           "rva": "0x19b4ec0",
@@ -948,7 +948,7 @@
       "abi": "midnight-pulse-material-v1",
       "reason": "reviewed fork-only pulse material contract",
       "client": {
-        "pe_timestamp": "0x6ad01314",
+        "pe_timestamp": "0x6ad7b41c",
         "size_of_image": "0x299d000"
       },
       "module": {
