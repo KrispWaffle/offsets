@@ -2,8 +2,8 @@
   "schema_version": 2,
   "consumer_abi": "midnight-build-data-v2",
   "client": {
-    "pe_timestamp": "0x6ad7b41c",
-    "size_of_image": "0x299d000"
+    "pe_timestamp": "0x6ada7340",
+    "size_of_image": "0x29a0000"
   },
   "signatures": {
     "CG_FSN_SIG": "48 89 5C 24 ?? 48 89 6C 24 ?? 57 48 83 EC ?? 48 8B F9 33 ED 48 8B 89 B0 04 00 00 8B DA",
@@ -448,8 +448,8 @@
       "abi": "midnight-glove-tint-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6ad7b41c",
-        "size_of_image": "0x299d000"
+        "pe_timestamp": "0x6ada7340",
+        "size_of_image": "0x29a0000"
       },
       "spans": [
         {
@@ -554,8 +554,8 @@
       "abi": "midnight-material-retire-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6ad7b41c",
-        "size_of_image": "0x299d000"
+        "pe_timestamp": "0x6ada7340",
+        "size_of_image": "0x29a0000"
       },
       "spans": [
         {
@@ -738,8 +738,8 @@
       "abi": "midnight-private-material-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6ad7b41c",
-        "size_of_image": "0x299d000"
+        "pe_timestamp": "0x6ada7340",
+        "size_of_image": "0x29a0000"
       },
       "spans": [
         {
@@ -832,8 +832,8 @@
       "abi": "midnight-pulse-client-v1",
       "reason": "reviewed fork-only pulse client contract",
       "client": {
-        "pe_timestamp": "0x6ad7b41c",
-        "size_of_image": "0x299d000"
+        "pe_timestamp": "0x6ada7340",
+        "size_of_image": "0x29a0000"
       },
       "spans": [
         {
@@ -948,8 +948,8 @@
       "abi": "midnight-pulse-material-v1",
       "reason": "reviewed fork-only pulse material contract",
       "client": {
-        "pe_timestamp": "0x6ad7b41c",
-        "size_of_image": "0x299d000"
+        "pe_timestamp": "0x6ada7340",
+        "size_of_image": "0x29a0000"
       },
       "module": {
         "pe_timestamp": "0x6acfcc60",
