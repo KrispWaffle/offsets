@@ -1,0 +1,740 @@
+[
+  {
+    "capability": "glove_tint",
+    "index": 0,
+    "old_rva": "0x95b240",
+    "rva": "0x95bb60",
+    "length": 186,
+    "sha256": "a0307ba4fdba20e542e6147618d487c3aa7e3cb4959c7b6a02646dc5d9f28441",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 1,
+    "old_rva": "0x14ea420",
+    "rva": "0x14ec1b0",
+    "length": 352,
+    "sha256": "6bbc852f292af59724d40e8146738b60a7530362df2c9b3474e97463ac8e15f6",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 2,
+    "old_rva": "0x10c7a70",
+    "rva": "0x10c9a20",
+    "length": 403,
+    "sha256": "12f97c7b259c1ec5dd0cc1d4f2fec56e2213abc969473088829e7de364b75812",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 3,
+    "old_rva": "0x7fd7e0",
+    "rva": "0x7fde90",
+    "length": 264,
+    "sha256": "3801f1a1667818f05f34d2de7bda6d14ed2ca7ad3f8a1b19bd1b5a1e08c5f833",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 4,
+    "old_rva": "0x8002a0",
+    "rva": "0x800ab0",
+    "length": 263,
+    "sha256": "6ed1c85a74de2fee12fec221ad34c80546d4a2298d26be6537492b80dd8acff6",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 5,
+    "old_rva": "0x782480",
+    "rva": "0x782cf0",
+    "length": 231,
+    "sha256": "f42fadd55b5173bd19ae197ec45f957b8b477d1d8ede104d58c57a32565b17e7",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 6,
+    "old_rva": "0x781e80",
+    "rva": "0x7826f0",
+    "length": 391,
+    "sha256": "ca5512ff3841cd38c8b2312700e546dbc883a82f13e56a6688d8a66c4d9eb633",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 7,
+    "old_rva": "0x782b20",
+    "rva": "0x783390",
+    "length": 434,
+    "sha256": "53ca5661fbfe750b53ef29ff6a04c172902aa5753d67e7a15e41539f967f9f0b",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 8,
+    "old_rva": "0x783cd0",
+    "rva": "0x784540",
+    "length": 263,
+    "sha256": "82d058cd7206f86ebffa673dd9d4411fd0dc3bc0102af01316bfa2446d261df7",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 9,
+    "old_rva": "0x10d5b00",
+    "rva": "0x10d7890",
+    "length": 1184,
+    "sha256": "f9944f7391bbefc186181886da618e3413e363dfcfdf1ab9104127ed9fade736",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 10,
+    "old_rva": "0x781cd0",
+    "rva": "0x782540",
+    "length": 418,
+    "sha256": "f5ce1b6522603bdb6e443a8049b14f01b33186b670bf51346fb1d62abbe339ab",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 11,
+    "old_rva": "0x782ce0",
+    "rva": "0x783550",
+    "length": 227,
+    "sha256": "2ffdd73344268b6f914ff5c62adff6153d5669e6d6eeadbf0bf9b8a29a377f6f",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 12,
+    "old_rva": "0x14d0700",
+    "rva": "0x14d2490",
+    "length": 1069,
+    "sha256": "e779c8c87318a7837a43ef19fb3ae24c3b7df751259d9aaf09b05820c2a96283",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 13,
+    "old_rva": "0x14c9460",
+    "rva": "0x14cb1f0",
+    "length": 259,
+    "sha256": "cbd201324fbf333b4279569f4e5531938608a665471926f5ca609640956b6160",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "glove_tint",
+    "index": 14,
+    "old_rva": "0x14d8500",
+    "rva": "0x14da290",
+    "length": 515,
+    "sha256": "14292aa5a00d946d679fcfb34cf325ec5328b28b951f12f9c64ce5c72ab51081",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "material_retire",
+    "index": 0,
+    "old_rva": "0x226430",
+    "rva": "0x226550",
+    "length": 3,
+    "sha256": "b6cbececf1b07e74f37d57710c68c31f0b92cb08d51093252b321b07542e177b",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 1,
+    "old_rva": "0x92ab60",
+    "rva": "0x92b480",
+    "length": 1145,
+    "sha256": "4ac76bde98cc8199a1af084676daf823fa574dc11bffeb23a29c719532d56c1f",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "material_retire",
+    "index": 2,
+    "old_rva": "0x9fecd0",
+    "rva": "0x9ff5f0",
+    "length": 344,
+    "sha256": "41b8a8de7a792097cae9ddac99f27ce00bf0901ec82313f441b420caafb768d1",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 3,
+    "old_rva": "0xa162b0",
+    "rva": "0xa16bd0",
+    "length": 276,
+    "sha256": "23632cfb013ef1c019366043dd797bd5f3bea1f645232a6ce52cc8548616ae8b",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 4,
+    "old_rva": "0xa1c6c0",
+    "rva": "0xa1cfe0",
+    "length": 185,
+    "sha256": "f394031fee5d9fec6335d8098926b7f80c440784190fb4347989aeaef37dc618",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 5,
+    "old_rva": "0xa1c880",
+    "rva": "0xa1d1a0",
+    "length": 151,
+    "sha256": "9866fbfbd541fe8d855e23e00ff69e80540b6bdfd6ce332ee46c96fdff6f6d3d",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 6,
+    "old_rva": "0xc66210",
+    "rva": "0xc66c70",
+    "length": 3373,
+    "sha256": "957986485fcdf7b9ca318a052b3a54924c162650cc5ea8de0720b214d07a4cce",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "material_retire",
+    "index": 7,
+    "old_rva": "0x10d3da0",
+    "rva": "0x10d5d50",
+    "length": 1674,
+    "sha256": "db9095a0521bf552eca1099f067bbefaa052e117430181e43a2602a2681a8527",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "material_retire",
+    "index": 8,
+    "old_rva": "0x10d5b00",
+    "rva": "0x10d7890",
+    "length": 1184,
+    "sha256": "f9944f7391bbefc186181886da618e3413e363dfcfdf1ab9104127ed9fade736",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "material_retire",
+    "index": 9,
+    "old_rva": "0x14d0210",
+    "rva": "0x14d1fa0",
+    "length": 196,
+    "sha256": "809e73913b58271ab7dca796eb39431d43dcf4b6f33cc34eb4534315cffe131a",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 10,
+    "old_rva": "0x14dc5a0",
+    "rva": "0x14de330",
+    "length": 2480,
+    "sha256": "02f666b5b5eeb0df70f1668d5cb353119d6f30009308e7d085c25054f822cb08",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "material_retire",
+    "index": 11,
+    "old_rva": "0x14ded40",
+    "rva": "0x14e0ad0",
+    "length": 1424,
+    "sha256": "b410369b9f5ec37ad7281e8b59f8f0910e95d981b76fe8fe2a9dad2af78b54f4",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 12,
+    "old_rva": "0x14e9aa0",
+    "rva": "0x14eb830",
+    "length": 455,
+    "sha256": "0028a1b0a3d2c085e1c9d4a4b1b22ca31bccdad6fc6499ca4a9c7dbf1b8a31d2",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 13,
+    "old_rva": "0x15b18e0",
+    "rva": "0x15b3670",
+    "length": 1155,
+    "sha256": "f3bdcd1e2397805cd46977013b2a45185ecf4cd01b39aa0cf0b91e0ab6506ad3",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 14,
+    "old_rva": "0x15b2f10",
+    "rva": "0x15b4ca0",
+    "length": 696,
+    "sha256": "a4f812815acc275321609c4bf458b4ff6e059756df83e195fbd1796d66016963",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 15,
+    "old_rva": "0x15b3d50",
+    "rva": "0x15b5ae0",
+    "length": 635,
+    "sha256": "b8795a3f34f89c348989b469dc689a66d366a303bb2d3d230f44bfdbea9ebc9a",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 16,
+    "old_rva": "0x15b5800",
+    "rva": "0x15b7590",
+    "length": 437,
+    "sha256": "af8179d03f46008cbe95c31d42dbfa16ec3e72fd8f79e25443ad04b74ab80342",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 17,
+    "old_rva": "0x15b59c0",
+    "rva": "0x15b7750",
+    "length": 15,
+    "sha256": "fdaa8ea170741526eb3b4975b6ce9f22ec9419e42d5aff332afb840ce7c8a9d8",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 18,
+    "old_rva": "0x15b5a40",
+    "rva": "0x15b77d0",
+    "length": 656,
+    "sha256": "0af10f834853d51b402fa8077860085378be1e9f606c311149e7348743b093a2",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 19,
+    "old_rva": "0x15b5cd0",
+    "rva": "0x15b7a60",
+    "length": 200,
+    "sha256": "22c2d6d28188f1c4313ca734635f46c68bee9c332ac91d83463aafabd73f8cd8",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 20,
+    "old_rva": "0x15b7290",
+    "rva": "0x15b9020",
+    "length": 372,
+    "sha256": "549575b8b10f38e0684b4ea87104396559d9f655fe2c30407c7840644944075f",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 21,
+    "old_rva": "0x15b7410",
+    "rva": "0x15b91a0",
+    "length": 341,
+    "sha256": "231b6732ebf09a77b981ebc228aa078435d699809e32e39b45c545d310b6706c",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 22,
+    "old_rva": "0x15b7b60",
+    "rva": "0x15b98f0",
+    "length": 414,
+    "sha256": "f4d6c1b6c161226384228bdee209976afd64e36e8751cef995abfe7209110d70",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 23,
+    "old_rva": "0x15b9c00",
+    "rva": "0x15bb990",
+    "length": 894,
+    "sha256": "f12a65e110120b678e0f96a1b0262de293e8924699fd6824a1ef2d7f0895dfe6",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 24,
+    "old_rva": "0x15ba970",
+    "rva": "0x15bc700",
+    "length": 1497,
+    "sha256": "53c895dcb33fb67853becb264ed63ad77a2a447454c8dbaa86373fb15d89ab8d",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 25,
+    "old_rva": "0x15beed0",
+    "rva": "0x15c0c60",
+    "length": 126,
+    "sha256": "edbed32c1875579485a8fb1b3bba1795e99a46f823fe5d508fe33bb3201543f0",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 26,
+    "old_rva": "0x15bf7b0",
+    "rva": "0x15c1540",
+    "length": 181,
+    "sha256": "e8ed0f592a64a55c4452301003c3fbeb37da8741a44d201b5c0eac876d7ddbd7",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 27,
+    "old_rva": "0x15bfc50",
+    "rva": "0x15c19e0",
+    "length": 521,
+    "sha256": "7ee8911d399c6fb66e121dc32b508d5caa27b8275fb9a1f2af443189d78f4fad",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 28,
+    "old_rva": "0x15bfe60",
+    "rva": "0x15c1bf0",
+    "length": 9,
+    "sha256": "d1bde6fe3fc9bc25b7409d04a54767e7ff4b0d2e75d0c2745c8e7d924bf9104e",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 29,
+    "old_rva": "0x15c4ac0",
+    "rva": "0x15c6850",
+    "length": 431,
+    "sha256": "ba8b544036de8aabe76d8a29a88a14782930fd043508ff3898fb6dfa1d8e6fcc",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 30,
+    "old_rva": "0x15c5b40",
+    "rva": "0x15c78d0",
+    "length": 236,
+    "sha256": "a78e473fd1e9b1dd57c5102ae9b53b2f45dabd31fc1319e713c80f056a9a533c",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "material_retire",
+    "index": 31,
+    "old_rva": "0x15c9550",
+    "rva": "0x15cb2e0",
+    "length": 2957,
+    "sha256": "a388ebc3a593d56fe2e726b0582ca2a97d9f7f5a86c7cd23ac988caa2f24698b",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "material_retire",
+    "index": 32,
+    "old_rva": "0x15ddfe0",
+    "rva": "0x15dfd70",
+    "length": 207,
+    "sha256": "9b51b63aa25d3bc1c3d99d05ff6781777520489e2aa63be97844d0c22dc46fea",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 0,
+    "old_rva": "0x14ca630",
+    "rva": "0x14cc3c0",
+    "length": 469,
+    "sha256": "c85e85ceff1c77adf05b8d6fe7ee5d8e6b2cf4af75c3bc13d36089c89b903b4e",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 1,
+    "old_rva": "0x14c9a20",
+    "rva": "0x14cb7b0",
+    "length": 350,
+    "sha256": "95f53939ce4287c69a5355ca47d3a41f878296e4f4f38063a8be280baf38fdf3",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 2,
+    "old_rva": "0x14cc2c0",
+    "rva": "0x14ce050",
+    "length": 267,
+    "sha256": "55e11a1e143d5d44f53364adf36ba7766c2e2449c37baca3a1e4c22cc627403e",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 3,
+    "old_rva": "0x14ca290",
+    "rva": "0x14cc020",
+    "length": 530,
+    "sha256": "c91086b2b8f09c06ca04a56deb3643d92d11ee7b749883142c8f38467483224e",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 4,
+    "old_rva": "0x14da0b0",
+    "rva": "0x14dbe40",
+    "length": 224,
+    "sha256": "4a2912e64422a5ae662a88ad182e260f020117fc53228f9d97782e231c204b59",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 5,
+    "old_rva": "0x14cbb50",
+    "rva": "0x14cd8e0",
+    "length": 403,
+    "sha256": "f85357ca0dd4472352617158bba473f1a15fbeeb4a936cd45a8de38f5d5f2fa5",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 6,
+    "old_rva": "0x14e1e40",
+    "rva": "0x14e3bd0",
+    "length": 243,
+    "sha256": "f3e96b12dea81055774acc44648eb6befa2fc635974267642222af93c50aca93",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 7,
+    "old_rva": "0x14df480",
+    "rva": "0x14e1210",
+    "length": 844,
+    "sha256": "8e20cb74c4dabeaf03b40c170244ceec15badf40384adcf294eb36d07213c984",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 8,
+    "old_rva": "0x14dc5a0",
+    "rva": "0x14de330",
+    "length": 2480,
+    "sha256": "02f666b5b5eeb0df70f1668d5cb353119d6f30009308e7d085c25054f822cb08",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "private_material",
+    "index": 9,
+    "old_rva": "0x14d5b80",
+    "rva": "0x14d7910",
+    "length": 395,
+    "sha256": "cbd6d28994eae9604ac9cef7542f9db51b000e52365242249e14b61c6a6db30d",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 10,
+    "old_rva": "0x14ce150",
+    "rva": "0x14cfee0",
+    "length": 685,
+    "sha256": "0de74250f9185d159017fd39969b4d7342fa3e2d1039b08b45a467a0e414f097",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 11,
+    "old_rva": "0x14e8db0",
+    "rva": "0x14eab40",
+    "length": 1556,
+    "sha256": "7fba07ff8bb7daa18f1c242ccbed9cbbd49d4d5df9715049f82dc3dd049eb8ad",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 12,
+    "old_rva": "0x197ee00",
+    "rva": "0x1980b90",
+    "length": 283,
+    "sha256": "d8cb57ae9961c9800dce6cf54f980e08cade1e3857a145a7be868d1413a87163",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 13,
+    "old_rva": "0xc32810",
+    "rva": "0xc33270",
+    "length": 20,
+    "sha256": "b25c57efc730881ff0aa197b86d80131b2453dfdbe9f94c7a9283e5952dd7cd8",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "private_material",
+    "index": 14,
+    "old_rva": "0xc32870",
+    "rva": "0xc332d0",
+    "length": 20,
+    "sha256": "b0d09f6a468de68f74b7fa2cd3dfb56eec1e44564e3d25380a1b5c73bb23a0c8",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 0,
+    "old_rva": "0x825870",
+    "rva": "0x826270",
+    "length": 260,
+    "sha256": "87acf40bc66941be5bc964bae65d5a2dff683421af5b8999dad1f3fe9ef1369e",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 1,
+    "old_rva": "0x78c170",
+    "rva": "0x78c9e0",
+    "length": 224,
+    "sha256": "7a03b5bebf798ae19a524af081c741ceb01d24bd0af90a44e967bf54923f5e80",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 2,
+    "old_rva": "0x782b20",
+    "rva": "0x783390",
+    "length": 434,
+    "sha256": "53ca5661fbfe750b53ef29ff6a04c172902aa5753d67e7a15e41539f967f9f0b",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 3,
+    "old_rva": "0x14e2b60",
+    "rva": "0x14e48f0",
+    "length": 2736,
+    "sha256": "9705765127b51e9a7eef09988a2bdedb7955b19020b41d1e07f56f0ff713a5e9",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 4,
+    "old_rva": "0x14dfb70",
+    "rva": "0x14e1900",
+    "length": 592,
+    "sha256": "ac82522e5896c5c702a642ae0bd9449ee8c94274de4fe60123d90545b4ac9d19",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 5,
+    "old_rva": "0x14cdc30",
+    "rva": "0x14cf9c0",
+    "length": 248,
+    "sha256": "355902883572f7aeb840820189149144e7fa74109a039de3c9d7b51b87298ef5",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 6,
+    "old_rva": "0x19c6120",
+    "rva": "0x19c7eb0",
+    "length": 282,
+    "sha256": "c3d8628c9d25878a36b5168536ad86767f3323733fc35731eee5647df2713d15",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 7,
+    "old_rva": "0x14dd1f0",
+    "rva": "0x14def80",
+    "length": 5896,
+    "sha256": "daf17573b09a3937b440ca5466ce379201ab423b755889338d367a2cc8da54b2",
+    "verification": "current-build independent identity and layout review"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 8,
+    "old_rva": "0x19b7120",
+    "rva": "0x19b8eb0",
+    "length": 7,
+    "sha256": "88e1918d740eb38d6bd46a50b8bdb0be68b6465141c4db795f93e364cf1cd192",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 9,
+    "old_rva": "0x14d5270",
+    "rva": "0x14d7000",
+    "length": 135,
+    "sha256": "10ecb6e19c7899a082898732a0cf3f3158458c8d84fd4a5394fcf2bfe1087353",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 10,
+    "old_rva": "0x19b7070",
+    "rva": "0x19b8e00",
+    "length": 146,
+    "sha256": "2cd6eba56bd407b317ca12300af365aaf63702a24d3a46b05edf1a04f451957c",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 11,
+    "old_rva": "0x19c08b0",
+    "rva": "0x19c2640",
+    "length": 1191,
+    "sha256": "68b444324ccdfd3055d8c296e8ee7a2b2cf8bcf12e10edce4e52c634ac0c36d4",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 12,
+    "old_rva": "0x19b9e10",
+    "rva": "0x19bbba0",
+    "length": 1428,
+    "sha256": "b8a537ac8b508eb2ce3d4c93546fca4bca87a85a8ba119b295025674bd4b18a1",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 13,
+    "old_rva": "0x19c6a80",
+    "rva": "0x19c8810",
+    "length": 128,
+    "sha256": "430dc3da48bd3234d40ce6a3ee785ae5c2ce28f602b982959f2359ea8b806004",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 14,
+    "old_rva": "0x19c0da0",
+    "rva": "0x19c2b30",
+    "length": 941,
+    "sha256": "8a6197836860ae23ca717ed862fbe4faaee7401d7e0b27abe5d3a3067f8192a6",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 15,
+    "old_rva": "0x19bb9a0",
+    "rva": "0x19bd730",
+    "length": 161,
+    "sha256": "4e75c0fe76f3f6835a1ebea371c75a7afff219af3800648e541c52412dabd2e1",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 16,
+    "old_rva": "0x19c1150",
+    "rva": "0x19c2ee0",
+    "length": 1715,
+    "sha256": "e0621cf86679cb3babec2bf213d07877f557ca9576149ca1b4519fa3e8e4beaa",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 17,
+    "old_rva": "0x19b7280",
+    "rva": "0x19b9010",
+    "length": 552,
+    "sha256": "78f39e454be35e6d76815754d703bb77351dcbd88ab47e0324b8273f672c54dc",
+    "verification": "previous SHA256 recovered by operand normalization"
+  },
+  {
+    "capability": "pulse_client",
+    "index": 18,
+    "old_rva": "0x19b7e70",
+    "rva": "0x19b9c00",
+    "length": 594,
+    "sha256": "f628118d02f33cbcb8b137fc8e910d8207037457d8128ac0c2a018e5ee4d50e0",
+    "verification": "previous SHA256 recovered by operand normalization"
+  }
+]
