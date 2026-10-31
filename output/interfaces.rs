@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-10-28 23:28:35.847914200 UTC
+// 2026-10-31 05:40:05.613393800 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -180,7 +180,7 @@ pub mod cs2_dumper {
             pub const SoundOpSystem001: usize = 0x532B20;
             pub const SoundOpSystemEdit001: usize = 0x532A30;
             pub const SoundSystem001: usize = 0x532420;
-            pub const VMixEditTool001: usize = 0x5941C0F;
+            pub const VMixEditTool001: usize = 0x5941C1F;
         }
         // Module: steamaudio.dll
         pub mod steamaudio_dll {
