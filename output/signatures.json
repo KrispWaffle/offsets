@@ -2,8 +2,8 @@
   "schema_version": 3,
   "consumer_abi": "midnight-build-data-v3",
   "client": {
-    "pe_timestamp": "0x6af4a59c",
-    "size_of_image": "0x298a000"
+    "pe_timestamp": "0x6afc83b4",
+    "size_of_image": "0x298d000"
   },
   "signatures": {
     "CG_FSN_SIG": "48 89 5C 24 ?? 48 89 6C 24 ?? 57 48 83 EC ?? 48 8B F9 33 ED 48 8B 89 B0 04 00 00 8B DA",
@@ -29,9 +29,9 @@
   },
   "callgate": {
     "interface_name": "Source2Client002",
-    "interface_rva": "0x254d9f0",
-    "table_rva": "0x1c5aa90",
-    "fsn_rva": "0xb628b0",
+    "interface_rva": "0x2551080",
+    "table_rva": "0x1c5c8e0",
+    "fsn_rva": "0xb63350",
     "rtti_name": ".?AVCSource2Client@@",
     "hierarchy_attributes": 1,
     "hierarchy_count": 11,
@@ -67,7 +67,7 @@
     "SKIN_QUALITY_STRANGE": 9,
     "SKIN_CUSTOM_NAME_STORAGE": 161,
     "SKIN_CHARM_HUD_STATE": 4952,
-    "SKIN_CHARM_ADD_RVA": 8368480,
+    "SKIN_CHARM_ADD_RVA": 8371264,
     "SKIN_ADDON_KEY_CHARM": 178595626,
     "SKIN_ADDON_KEY_NAMETAG": 2800478649,
     "SKIN_ADDON_KEY_STATTRAK": 3369543006,
@@ -448,90 +448,90 @@
       "abi": "midnight-glove-tint-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6af4a59c",
-        "size_of_image": "0x298a000"
+        "pe_timestamp": "0x6afc83b4",
+        "size_of_image": "0x298d000"
       },
       "spans": [
         {
-          "rva": "0x955910",
+          "rva": "0x9563a0",
           "length": 186,
-          "sha256": "e708d0f4b89420ef36540dd4eb7f64ea70c1175535d4831b4315e0a2b7dcb1a0"
+          "sha256": "1c55fdcbd04c08d6b89983dae464c1196b4e3e613e93268531f02bb049eac14e"
         },
         {
-          "rva": "0x14e11b0",
+          "rva": "0x14e3f30",
           "length": 352,
-          "sha256": "377da8bcfae4e6a00ddfaa3626da7d428dbc4ed289bcf9bf73e92d586b0de347"
+          "sha256": "787ab706c8bff90939df3cae35cd409d9c644a6d4733516e61a6ef4ac0001795"
         },
         {
-          "rva": "0x10c0e80",
+          "rva": "0x10c24e0",
           "length": 403,
-          "sha256": "6851ff29cac1ed7577629a70a722ee40524052d903905ddd78bdb940ebe6b4eb"
+          "sha256": "d3ff9beaec103439e86ba95825f83881ace22b95cb1594df22e8f7a9912a3378"
         },
         {
-          "rva": "0x7f76e0",
+          "rva": "0x7f81c0",
           "length": 264,
-          "sha256": "e512605d08e4694fecce5096626b69bf902978798a6a5a148dd6bc30543aeb9a"
+          "sha256": "aa6219634fef29720efdbde9c54b5f6b8228caef452c2fe502fdd72850a672fb"
         },
         {
-          "rva": "0x7fa300",
+          "rva": "0x7fade0",
           "length": 263,
-          "sha256": "9419c11d7dbc40e3f951f4d9b172ea4fb7d99a484891952d2b51fcb2b20d30f0"
+          "sha256": "3e0116ce815fd876394ecf0782486149f37e700b01bc3b62eb5af8cf70c0496a"
         },
         {
-          "rva": "0x77bff0",
+          "rva": "0x77c970",
           "length": 231,
           "sha256": "f42fadd55b5173bd19ae197ec45f957b8b477d1d8ede104d58c57a32565b17e7"
         },
         {
-          "rva": "0x77b9f0",
+          "rva": "0x77c370",
           "length": 391,
-          "sha256": "2d49b401ebdffdec7aa64cfcf8353f818c5350c3ab7b7aa409b3909f2932bc9d"
+          "sha256": "aa469e647b589ff0db524a88950d9c6cb51cc1525163f7c3da4750cdad6a9184"
         },
         {
-          "rva": "0x77c690",
+          "rva": "0x77d010",
           "length": 434,
-          "sha256": "17268c4fba13dd4892da6eb05257cff13130fe2dd0806634422ab08bae3da797"
+          "sha256": "754b6488d97da40da81daaeb389faf4e440dc87bf5b6d09cc082e50ebbf180bf"
         },
         {
-          "rva": "0x77d840",
+          "rva": "0x77e1c0",
           "length": 263,
-          "sha256": "5ac5d74c5a9c95deeccdafcadc0c6b9e58cecf41e8c7e86430dfebe40b1af30c"
+          "sha256": "fded1d8ac3e2e85f6682267bd290515fb3144d598e53549fc6c784c2a2c9317f"
         },
         {
-          "rva": "0x10ced00",
+          "rva": "0x10d0360",
           "length": 1184,
-          "sha256": "2de6be84bf63e6c6b010a66337fc2e1e06f2168ccc6330447c24ed3251dd4a18"
+          "sha256": "e4c1669ffa9822d4657a436a5f4f36581e7f3c8aab55b1600c0b102e7b13293b"
         },
         {
-          "rva": "0x77b840",
+          "rva": "0x77c1c0",
           "length": 418,
-          "sha256": "cb3f46de986ec909c1880eea7cfdce411ff795f8c2f36921cbc9956be62f7038"
+          "sha256": "947fec9fe1f627c2483bdffe802eff8be87fbd3df8deadcf73fd0b56d89d4168"
         },
         {
-          "rva": "0x77c850",
+          "rva": "0x77d1d0",
           "length": 227,
-          "sha256": "1bc78bddce2a1d204442197291a68783b94a081fcff1e27e91a6a1d4683de629"
+          "sha256": "e710c5b3dc046c0443c8d0b94e08e9d27b71dce4dfcc2c082ca6c82d0f6bcc2f"
         },
         {
-          "rva": "0x14c7490",
+          "rva": "0x14ca210",
           "length": 1069,
-          "sha256": "b7ded8e2e2ab74b6e74d6643ebe1c228dbfc280eda846bd81de1102dfb95ff07"
+          "sha256": "273f2079cdc00e9977e770015c8ab1ec4ddc80e118e834bede1dea176741d7fd"
         },
         {
-          "rva": "0x14c01f0",
+          "rva": "0x14c2f70",
           "length": 259,
           "sha256": "cbd201324fbf333b4279569f4e5531938608a665471926f5ca609640956b6160"
         },
         {
-          "rva": "0x14cf290",
+          "rva": "0x14d2010",
           "length": 515,
-          "sha256": "0948fa9711150ae1dd3a60635fbfb35843b0eb5166bd17ec6356d970cd5dbf9e"
+          "sha256": "653539ad39979245ee43b3f88e17a092c39843771c4977d8cf44651b86e3f9b4"
         }
       ],
       "rvas": {
-        "required_zero_global": "0x26efe38",
-        "world_gloves_component_table": "0x1c81238",
-        "addon_gloves_component_table": "0x1d01e20"
+        "required_zero_global": "0x26f34a8",
+        "world_gloves_component_table": "0x1c82eb8",
+        "addon_gloves_component_table": "0x1d03cc8"
       },
       "layout": {
         "SKIN_GLOVE_TINT_LOW_HANDLE": 5624,
@@ -540,12 +540,12 @@
       },
       "checks": {
         "addon_table_lea": {
-          "rva": "0x10cee41",
+          "rva": "0x10d04a1",
           "bytes": "498d8d28130000"
         },
         "submit_capture_cmp": {
-          "rva": "0x14c74a8",
-          "bytes": "803d8989220100"
+          "rva": "0x14ca228",
+          "bytes": "803d7992220100"
         }
       }
     },
@@ -554,181 +554,181 @@
       "abi": "midnight-material-retire-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6af4a59c",
-        "size_of_image": "0x298a000"
+        "pe_timestamp": "0x6afc83b4",
+        "size_of_image": "0x298d000"
       },
       "spans": [
         {
-          "rva": "0x226370",
+          "rva": "0x225a20",
           "length": 3,
           "sha256": "b6cbececf1b07e74f37d57710c68c31f0b92cb08d51093252b321b07542e177b"
         },
         {
-          "rva": "0x9255c0",
+          "rva": "0x926050",
           "length": 1145,
-          "sha256": "057422b8ee6e9ec0b5758418830d8f6934f7de1e992dd0177bb0c241661e4d62"
+          "sha256": "cded6e4f17cd5d53cf6e57e2af563bcc19a19412a64e354918404a55e962e4dd"
         },
         {
-          "rva": "0x9f8650",
+          "rva": "0x9f90e0",
           "length": 344,
-          "sha256": "7fe65f11b7235f4027fd5ae5258391ab54e179de6f27d4871a4a872c6c1e684c"
+          "sha256": "e2e057270cb71b41fad76b33bd7fdd0aacde2e87a0dee5d5366cce444bd73a38"
         },
         {
-          "rva": "0xa0fc30",
+          "rva": "0xa106c0",
           "length": 276,
-          "sha256": "ce07dee08cf6c9b028bddf0fff3b949184a36b0cbb28384a606f089fb0a955f0"
+          "sha256": "8ab94df18a2e1b7fc60df9b3b419b6d9c897b4476ec4630a99363f8d91ff6586"
         },
         {
-          "rva": "0xa16160",
+          "rva": "0xa16bf0",
           "length": 185,
-          "sha256": "82c8bf7fa1c8bf35c7bd0ce7b248dfcf71e8714ee35f1b51c69c3ed19c90f8a6"
+          "sha256": "3898a02d2b9df7ed26e9895b1be446c2a67a4aaf9b234008d40dd92e18c02f46"
         },
         {
-          "rva": "0xa16320",
+          "rva": "0xa16db0",
           "length": 151,
-          "sha256": "7f5a58672469b8486ce36f163227a949b37909b1eaa691e2cccdc467b95cecee"
+          "sha256": "1a0cb0a9948bb548d9b1b287b487f5527fb8fb0498b6e53d5350a7280839f6e5"
         },
         {
-          "rva": "0xc5b100",
+          "rva": "0xc5bba0",
           "length": 3373,
-          "sha256": "6c53aeb6b19bc1e47d7cd7db9440bec4c6e627513a35fd0bca35964ead664b56"
+          "sha256": "f9b7ff5ab6e8830cc0c734a710db072a813fd282836aacd024624dea05f846bf"
         },
         {
-          "rva": "0x10cd1c0",
+          "rva": "0x10ce820",
           "length": 1674,
-          "sha256": "e4aa33479f01d6aef4a2f09dcf8c1a1a9d583ab576b1e6d743439494790faabb"
+          "sha256": "206865eb11e1821d4e0fcdc377a5825be427f18ba32ba4a68008b6e6845de862"
         },
         {
-          "rva": "0x10ced00",
+          "rva": "0x10d0360",
           "length": 1184,
-          "sha256": "2de6be84bf63e6c6b010a66337fc2e1e06f2168ccc6330447c24ed3251dd4a18"
+          "sha256": "e4c1669ffa9822d4657a436a5f4f36581e7f3c8aab55b1600c0b102e7b13293b"
         },
         {
-          "rva": "0x14c6fa0",
+          "rva": "0x14c9d20",
           "length": 196,
           "sha256": "809e73913b58271ab7dca796eb39431d43dcf4b6f33cc34eb4534315cffe131a"
         },
         {
-          "rva": "0x14d3330",
+          "rva": "0x14d60b0",
           "length": 2480,
-          "sha256": "1fc7eef97de873d0c618aa0fdd3c3d9f59a05889ee1aca9944ed3eafd691295e"
+          "sha256": "0e5e84156c62aba780dd296ce4c163da073b880174b651897d1b8c4215752475"
         },
         {
-          "rva": "0x14d5ad0",
+          "rva": "0x14d8850",
           "length": 1424,
-          "sha256": "06da04ccfdd0edc9c719a3bd9a507a3c208c5b6813c711c22173dedf8e9d43fa"
+          "sha256": "1f6531e392e6a6ee59bb5811aba3154bc73fb6f03d2d85e735169a1492e6127a"
         },
         {
-          "rva": "0x14e0830",
+          "rva": "0x14e35b0",
           "length": 455,
-          "sha256": "c773498cfea67c11c8b3e5167cf9ae6278fc499c54d092a0f47f26ed6c96cc81"
+          "sha256": "d7d2b79436a229c0f9a4e76e3c215f90b700e1346be518e211b57b297053489e"
         },
         {
-          "rva": "0x15a8670",
+          "rva": "0x15ab3f0",
           "length": 1155,
-          "sha256": "6124327bfa0362e95c57c90759e9f1529d37b8c604c39b519dfdc7be771fd1ac"
+          "sha256": "071a2a0a2e75b4e5e1bf79dcf9923d8689ce23d0536857f555f56087534a13f4"
         },
         {
-          "rva": "0x15a9ca0",
+          "rva": "0x15aca20",
           "length": 696,
-          "sha256": "8cb1f7f129c6206221e6894bcf1eecd14d097ec5eda81b74558ddd1d608d4177"
+          "sha256": "7cf821ddabf9cb4d66d3112255a6a4ded8199601e0141ce28d58b078a035e194"
         },
         {
-          "rva": "0x15aaae0",
+          "rva": "0x15ad860",
           "length": 635,
-          "sha256": "a51ed3404f5c0e6866a33e97bf684d1bf49403cd3357390b6cde38b201989558"
+          "sha256": "e0fdd2679355672160e13cbd6f0e16a422a5964db21b5938033a2b8c31a91b3f"
         },
         {
-          "rva": "0x15ac590",
+          "rva": "0x15af310",
           "length": 437,
-          "sha256": "a45921fb28097be340cc8544299febea18cc406c97355c7d60a2d68c1ec2b530"
+          "sha256": "d2d0907a9368eb235a45b5c1df45819e50e80146f692b67bf37f81db13200d16"
         },
         {
-          "rva": "0x15ac750",
+          "rva": "0x15af4d0",
           "length": 15,
           "sha256": "fdaa8ea170741526eb3b4975b6ce9f22ec9419e42d5aff332afb840ce7c8a9d8"
         },
         {
-          "rva": "0x15ac7d0",
+          "rva": "0x15af550",
           "length": 656,
-          "sha256": "95013e32607790b892e2284a0ad1c5e1624d2ac6299330d1ea1c5cc7fa1972b9"
+          "sha256": "5f4d3ee6dcc8a087e5c4023056c23e82f19456fc249acfd9b3dccd9d6868fe7c"
         },
         {
-          "rva": "0x15aca60",
+          "rva": "0x15af7e0",
           "length": 200,
-          "sha256": "162b51cfa42aa55f2c287e77181f00f2a1106da6365df8e0999bf079636b6234"
+          "sha256": "ea28e74ec92eecb85d034ba6a6cfa656c551b3ad0c48db4b3ad28b9d6d3b5abc"
         },
         {
-          "rva": "0x15ae020",
+          "rva": "0x15b0da0",
           "length": 372,
-          "sha256": "320439db0ab47075eec946c77e20097ffaed164708c178b90ba30414d440d8b2"
+          "sha256": "6d5280a7546b287a0823927b62ab7b525ef8abf927eb5b7546322d977dd503a9"
         },
         {
-          "rva": "0x15ae1a0",
+          "rva": "0x15b0f20",
           "length": 341,
-          "sha256": "8392a9d42ce6ea8dc5cd1a0e86e9bf2742d0ec267e42bb981a99fcc715bdd39f"
+          "sha256": "5594a8c50407c0199243770cf0ac044db5a0b5499872c0b1bffa8214a815b9f2"
         },
         {
-          "rva": "0x15ae8f0",
+          "rva": "0x15b1670",
           "length": 414,
-          "sha256": "ca53d032bec24df306a81d37f8efe51f5126fcf43cae5c97a0172d5e9ae4a4f1"
+          "sha256": "d5861d4f3867864f2438a00edba8268af488a8f4dda9d27adaa47db978388c37"
         },
         {
-          "rva": "0x15b0990",
+          "rva": "0x15b3710",
           "length": 894,
-          "sha256": "7731dc05a9df5a1af1ff9d5909117b4a232b294dbf37042b2b899aed825d6465"
+          "sha256": "976f0d3bddb7911f372c07bf1bb7bc5306c82ed48460418bef0f720d7826dac2"
         },
         {
-          "rva": "0x15b1700",
+          "rva": "0x15b4480",
           "length": 1497,
-          "sha256": "99fb463c68c63cc70386ce347c27904989963e455df29444ccbb5e2f93a1bb3b"
+          "sha256": "e4b9784c97c9404efccbce907dfe0dbe94d4f6aff4d7d3cab16cc97da5714a88"
         },
         {
-          "rva": "0x15b5c60",
+          "rva": "0x15b89e0",
           "length": 126,
           "sha256": "edbed32c1875579485a8fb1b3bba1795e99a46f823fe5d508fe33bb3201543f0"
         },
         {
-          "rva": "0x15b6540",
+          "rva": "0x15b92c0",
           "length": 181,
           "sha256": "e8ed0f592a64a55c4452301003c3fbeb37da8741a44d201b5c0eac876d7ddbd7"
         },
         {
-          "rva": "0x15b69e0",
+          "rva": "0x15b9760",
           "length": 521,
-          "sha256": "face928ba97d922508d0971dcbe622d161de443dbebcedf26c13c2e8b910662b"
+          "sha256": "a92d7feb69333ef685da09d4127edcd75745bc07baf0828f7ce24595ca223f68"
         },
         {
-          "rva": "0x15b6bf0",
+          "rva": "0x15b9970",
           "length": 9,
           "sha256": "d1bde6fe3fc9bc25b7409d04a54767e7ff4b0d2e75d0c2745c8e7d924bf9104e"
         },
         {
-          "rva": "0x15bb850",
+          "rva": "0x15be5d0",
           "length": 431,
-          "sha256": "1d5d82508a073cd2b2ea21b96640a55da2782ccffa5e764d1f2997671425ecce"
+          "sha256": "e490853a553a08f404d36615a50438c0a265ff6889733497c5752f6310eaaf4a"
         },
         {
-          "rva": "0x15bc8d0",
+          "rva": "0x15bf650",
           "length": 236,
-          "sha256": "1622c1e437bac52233226a06b7e140045a7688f0b8db922e64b7519df9d39ae7"
+          "sha256": "c0726fcfa2fdba07051e276fb875b74447d65f33f6a2fa05691b798ea7f44658"
         },
         {
-          "rva": "0x15c02e0",
+          "rva": "0x15c3060",
           "length": 2957,
-          "sha256": "4a116959fd0e85f096c92aca6aea599c2ed21cc10b164707eb1c107cb6f59661"
+          "sha256": "9e18d06acdeb89321b84301d81da5c9bc5d08ab7e1c4f4e7f0cf6c49f34d19f5"
         },
         {
-          "rva": "0x15d4d70",
+          "rva": "0x15d7af0",
           "length": 207,
-          "sha256": "95aff5781f7caccbc8b1908c041109829661ea1642416d1a42a8d76e4ceb0e95"
+          "sha256": "6fd1e1049e571aeb96d596455813381260d38a719fc8911a25f3e8e6d767408a"
         }
       ],
       "rvas": {
-        "unserialize_low_slot": "0x1c80a80",
-        "unserialize_high_slot": "0x1d01668",
-        "unserialize_noop": "0x226370",
-        "material_cache_manager": "0x26eff10"
+        "unserialize_low_slot": "0x1c82700",
+        "unserialize_high_slot": "0x1d03510",
+        "unserialize_noop": "0x225a20",
+        "material_cache_manager": "0x26f3580"
       },
       "layout": {},
       "checks": {}
@@ -738,91 +738,91 @@
       "abi": "midnight-private-material-v2",
       "reason": "reviewed fork-only current client contract",
       "client": {
-        "pe_timestamp": "0x6af4a59c",
-        "size_of_image": "0x298a000"
+        "pe_timestamp": "0x6afc83b4",
+        "size_of_image": "0x298d000"
       },
       "spans": [
         {
-          "rva": "0x14c13c0",
+          "rva": "0x14c4140",
           "length": 469,
           "sha256": "a671a5fa5bed633eeae4482fef44bbcd6ab8bf04c2705cb1d5775e7d83fa836a"
         },
         {
-          "rva": "0x14c07b0",
+          "rva": "0x14c3530",
           "length": 350,
-          "sha256": "63b082a43aa5e98d15cdb1ec8cae4d7edecf295da7a2e35208bd239354bcc29b"
+          "sha256": "07672d3e3596b8c217cbd8d268a376dcba6bc1373cb721168773b83983f12595"
         },
         {
-          "rva": "0x14c3050",
+          "rva": "0x14c5dd0",
           "length": 267,
           "sha256": "55e11a1e143d5d44f53364adf36ba7766c2e2449c37baca3a1e4c22cc627403e"
         },
         {
-          "rva": "0x14c1020",
+          "rva": "0x14c3da0",
           "length": 530,
-          "sha256": "d01a11598de8f42595cb3dde9bf6ce370efbebdb3714e92cee184cb72f602aa9"
+          "sha256": "0e9117417137909a964c5e4b6de8bf8d775cfe0f622d74ed440b4026f2e051ca"
         },
         {
-          "rva": "0x14d0e40",
+          "rva": "0x14d3bc0",
           "length": 224,
-          "sha256": "b350a9a64addab28744b5110bdebaa4db52cc8287013b5d31bbe5c24e3c1079a"
+          "sha256": "c498a857c3e0504f4ec28f9af2d006ed353becf40ae880e5829c9b1fc91e91f1"
         },
         {
-          "rva": "0x14c28e0",
+          "rva": "0x14c5660",
           "length": 403,
-          "sha256": "4f60427a24414118d4835d2e309d9ec9f57fd1cffc243f15aa437d47604bbeef"
+          "sha256": "0b217bfb07c8dd4f302bc73b1ec4c8bb8f9aecb7725e727f0d52327ecb60b1a5"
         },
         {
-          "rva": "0x14d8bd0",
+          "rva": "0x14db950",
           "length": 243,
-          "sha256": "961ba138c9f29fd7eae22307a5ac3e28f49cf439081315f8bcf98014affc2323"
+          "sha256": "31b9f8a1fdb17d311055dedfc38723d1b36b5ab652e538ebd22c5e45bc01fde6"
         },
         {
-          "rva": "0x14d6210",
+          "rva": "0x14d8f90",
           "length": 844,
-          "sha256": "f034d52ec1af29b4c8e62f8c79d9d01404df75f0a84d3278cf54f5c4c132f7ae"
+          "sha256": "b227e1b6a6342712421fd65d18c347b3b316ffd8d10fe3223a45f70164b282a4"
         },
         {
-          "rva": "0x14d3330",
+          "rva": "0x14d60b0",
           "length": 2480,
-          "sha256": "1fc7eef97de873d0c618aa0fdd3c3d9f59a05889ee1aca9944ed3eafd691295e"
+          "sha256": "0e5e84156c62aba780dd296ce4c163da073b880174b651897d1b8c4215752475"
         },
         {
-          "rva": "0x14cc910",
+          "rva": "0x14cf690",
           "length": 395,
-          "sha256": "4e0aa69152529d12ed24a23728eba3ac4f23537494fa59b0c3cdcd242f53e47a"
+          "sha256": "c14a3cced1373b4d42f6348b9555c29ed17d5542f261af110f62a82def21d914"
         },
         {
-          "rva": "0x14c4ee0",
+          "rva": "0x14c7c60",
           "length": 685,
-          "sha256": "5d6f96bf5f42c3dbeef139bdb11a9f08c380a3759f5aad93ee50dea74ebfd555"
+          "sha256": "3ffb10986f90cad1138d123ea290c0f0cc288855f9f0bfb6428445ce2d9448e9"
         },
         {
-          "rva": "0x14dfb40",
+          "rva": "0x14e28c0",
           "length": 1556,
-          "sha256": "3e3153cf1c7dd98daf87146da5b753e0bd6a1654c7ff9423d566835c983559dd"
+          "sha256": "e09c4f18605dcf9f5e90821044d3d2117b133298f76c1fc5e790cfc6777e46cf"
         },
         {
-          "rva": "0x1975ac0",
+          "rva": "0x1978840",
           "length": 283,
-          "sha256": "022862f94a93a41edede54668c1d99f5ba617f50bd2e34c813d73a755206b3a7"
+          "sha256": "3d3f198ca030dd798534f9c5ee3e042678810bf7337c250980530a37e47fc66f"
         },
         {
-          "rva": "0xc27830",
+          "rva": "0xc282d0",
           "length": 20,
-          "sha256": "9d33a396e06ac72e618301fab61b7a3238ed4252281e27b753fc4a7149ffee31"
+          "sha256": "9401e1071c435971d3e4097c6d8b782ce2f195083639d546ebe3afa1661f1169"
         },
         {
-          "rva": "0xc27890",
+          "rva": "0xc28330",
           "length": 20,
-          "sha256": "f47d68a7939cfa8ff0c449545b3be51e2f83e991b894a162d64e64158aeeef1f"
+          "sha256": "2da5e07763eac71523cdf4ba4aa5e9bb0b8fe3910a12e5be8ba32136a18e09d0"
         }
       ],
       "rvas": {
-        "resource_global": "0x278b5d0",
-        "manager_global": "0x278b5d8",
-        "econ_system": "0x25e2898",
-        "resource_import_slot": "0x1aa79b0"
+        "resource_global": "0x278ec50",
+        "manager_global": "0x278ec58",
+        "econ_system": "0x25e5ea8",
+        "resource_import_slot": "0x1aa99b0"
       },
       "layout": {},
       "checks": {}
@@ -832,114 +832,114 @@
       "abi": "midnight-pulse-client-v1",
       "reason": "reviewed fork-only pulse client contract",
       "client": {
-        "pe_timestamp": "0x6af4a59c",
-        "size_of_image": "0x298a000"
+        "pe_timestamp": "0x6afc83b4",
+        "size_of_image": "0x298d000"
       },
       "spans": [
         {
-          "rva": "0x81ff30",
+          "rva": "0x820a10",
           "length": 260,
-          "sha256": "df08ed5d98c289abae62c27cab2dded8fdece9aaac3024cdab724a08647b27c3"
+          "sha256": "c9443ccec174a54c6726d1e3481b243dec2221b26ebe98936fcb88879e696fa3"
         },
         {
-          "rva": "0x785ce0",
+          "rva": "0x786680",
           "length": 224,
-          "sha256": "6ca4ba66184dffc8a8388f0ec98497a966c6b95199d85674c57c61b27c08fb15"
+          "sha256": "128e429744645192cecb7f73802fdf72034a438eff943f8ac9b67d19301151b4"
         },
         {
-          "rva": "0x77c690",
+          "rva": "0x77d010",
           "length": 434,
-          "sha256": "17268c4fba13dd4892da6eb05257cff13130fe2dd0806634422ab08bae3da797"
+          "sha256": "754b6488d97da40da81daaeb389faf4e440dc87bf5b6d09cc082e50ebbf180bf"
         },
         {
-          "rva": "0x14d98f0",
+          "rva": "0x14dc670",
           "length": 2736,
-          "sha256": "7f489e524667dfe57b22e74d462be3dbecebf1971a5f99ee639a7d9fbeb29101"
+          "sha256": "ad5d6cef54ee10eed7bcf470c87243aa484b78480222e48d348555d3b81285fc"
         },
         {
-          "rva": "0x14d6900",
+          "rva": "0x14d9680",
           "length": 592,
-          "sha256": "3aba336b36cca5f5bf1b1723ade01a24bc5d7710d109b371139eb28cbcde91f9"
+          "sha256": "66635302285039d39f5e3da86a6f4bc38dc1299acf1577a43e378a24338782e6"
         },
         {
-          "rva": "0x14c49c0",
+          "rva": "0x14c7740",
           "length": 248,
-          "sha256": "0ba10941ac8f517d1c08bc6b7d856c99cb3853db0bd522a6159ea937d5d669bb"
+          "sha256": "14c83d5e8c7dc8412309bba9eda0b8321ccd51ad0ebca7d870ce5eee3c856a02"
         },
         {
-          "rva": "0x19bd4e0",
+          "rva": "0x19c0260",
           "length": 282,
           "sha256": "c3d8628c9d25878a36b5168536ad86767f3323733fc35731eee5647df2713d15"
         },
         {
-          "rva": "0x14d3f80",
+          "rva": "0x14d6d00",
           "length": 5896,
-          "sha256": "51936853ca6b3ca3ae1833dd6df8baa3a6e47b6f66534a01aed2af5ab2c65b90"
+          "sha256": "0a8547b05400e9a71c32432166747325cff0e9a2f7a2dec3a94659ca783eba1b"
         },
         {
-          "rva": "0x19ae4e0",
+          "rva": "0x19b1260",
           "length": 7,
           "sha256": "88e1918d740eb38d6bd46a50b8bdb0be68b6465141c4db795f93e364cf1cd192"
         },
         {
-          "rva": "0x14cc000",
+          "rva": "0x14ced80",
           "length": 135,
-          "sha256": "a6296a555592c9c30642864c50ba5098c0d386cb598e3f4e08a94932571d407a"
+          "sha256": "5f07f5be1cd0a399027e68f603c2c0d1ed7e14f240d1d5529423ce04678bd6d4"
         },
         {
-          "rva": "0x19ae430",
+          "rva": "0x19b11b0",
           "length": 146,
-          "sha256": "73b9f75eef8e1a2232a9d6f86c94aea3238f727ed95261a271dbfb305e61fa6d"
+          "sha256": "afb1e62c03d5b546c75f5a663a684f79ae1838d825bf034a37ec57f9c9d20648"
         },
         {
-          "rva": "0x19b7c70",
+          "rva": "0x19ba9f0",
           "length": 1191,
-          "sha256": "e2749bb7f10d1197b24e691622ce6d564796e0832a623ef383a29676c694bf01"
+          "sha256": "baeb456ea5a5847945d7161effb69e8a0e6bff2ac41362ff44f6674cb9fc4ac7"
         },
         {
-          "rva": "0x19b11d0",
+          "rva": "0x19b3f50",
           "length": 1428,
-          "sha256": "b3586c548e2825c8a08229628a24ed81472271cd2f762311886c9dea1202460a"
+          "sha256": "b24999680c80627cc80497bab4f673004f7ab5fda5b73392b1c1361f1fed4f35"
         },
         {
-          "rva": "0x19bde40",
+          "rva": "0x19c0bc0",
           "length": 128,
-          "sha256": "ed2259f959fcea478331a1a55957c6b6945ba2809c840cbdd7bf6ce2d2a34145"
+          "sha256": "63d892d5c1c990a6c330de57fdd94ba8267d6811ba300a93ee4fd8a7716d9e4a"
         },
         {
-          "rva": "0x19b8160",
+          "rva": "0x19baee0",
           "length": 941,
-          "sha256": "7ca83502036d58a0a0ddaddea06e8260a0e4de5c81a28040b0ac2d555af2f5e5"
+          "sha256": "fede787e2ff5a3d401af9f30607d855c6fb56b9b8c2068b4cde735d329cfcdea"
         },
         {
-          "rva": "0x19b2d60",
+          "rva": "0x19b5ae0",
           "length": 161,
           "sha256": "4e75c0fe76f3f6835a1ebea371c75a7afff219af3800648e541c52412dabd2e1"
         },
         {
-          "rva": "0x19b8510",
+          "rva": "0x19bb290",
           "length": 1715,
-          "sha256": "91fc577bfdcc37c63e596380344823af2de3baa958d0bd84f2d009b5be8cb684"
+          "sha256": "5e012630caf3084119d6a02619427c6fa6311dd21193877efb651dffc8a3518e"
         },
         {
-          "rva": "0x19ae640",
+          "rva": "0x19b13c0",
           "length": 552,
-          "sha256": "d25eba8c894f268de1295595296a5e67725e435db40e333b7637c99f468f2ca8"
+          "sha256": "7240f4804f5a8c4fb4ca5b338c240f814764f751a31f296973ba47c24a5466a3"
         },
         {
-          "rva": "0x19af230",
+          "rva": "0x19b1fb0",
           "length": 594,
-          "sha256": "9caa411b059835262f67fc405f80aca9db645cea315b12e0a67454aaadbf10f1"
+          "sha256": "f0f77c0942082d9f5d3d93a738ed9e54959f0e2bac4f5597c69c7f197081d4b3"
         }
       ],
       "rvas": {
-        "material_interface_global": "0x278b5e8"
+        "material_interface_global": "0x278ec68"
       },
       "layout": {},
       "checks": {
         "float3_jump_entry": {
-          "rva": "0x14d6b30",
-          "bytes": "2f6a4d01"
+          "rva": "0x14d98b0",
+          "bytes": "af974d01"
         }
       }
     },
@@ -948,8 +948,8 @@
       "abi": "midnight-pulse-material-v1",
       "reason": "reviewed fork-only pulse material contract",
       "client": {
-        "pe_timestamp": "0x6af4a59c",
-        "size_of_image": "0x298a000"
+        "pe_timestamp": "0x6afc83b4",
+        "size_of_image": "0x298d000"
       },
       "module": {
         "pe_timestamp": "0x6af4a4ac",
@@ -1050,8 +1050,8 @@
       "schema": "build-extraction-rules-v1",
       "snapshot_sha": "28faec5092d21052888962d95b8bfe9c3aa4955b",
       "client": {
-        "pe_timestamp": "0x6af4a59c",
-        "size_of_image": "0x298a000"
+        "pe_timestamp": "0x6afc83b4",
+        "size_of_image": "0x298d000"
       },
       "anchors": [
         {
@@ -1446,8 +1446,8 @@
     "private_layout": {
       "schema": "private-layout-rules-v1",
       "reviewed_client": {
-        "pe_timestamp": "0x6af4a59c",
-        "size_of_image": "0x298a000"
+        "pe_timestamp": "0x6afc83b4",
+        "size_of_image": "0x298d000"
       },
       "anchors": {
         "clear_materials": 320,
